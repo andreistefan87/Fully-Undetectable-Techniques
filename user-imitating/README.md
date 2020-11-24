@@ -1,5 +1,7 @@
 # User Imitation
 
+![](poc.gif)
+
 I have coded my own [PoC](stealth.c) (in pure C) for the novel technique explained by Tim Niklas Witte in his paper "[Phantom Malware: Conceal Malicious Actions From Malware Detection Techniques by Imitating User Activity](https://ieeexplore.ieee.org/abstract/document/9186656)", released in September. 
 
 The basic idea is to make something like a "[Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe)", but from software and stealthy. We can use a hidden secondary desktop to imitate a user, bypassing the AVs' behavior analysis.
