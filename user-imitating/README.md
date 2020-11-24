@@ -1,4 +1,4 @@
-# User Imitating
+# User Imitation
 
 I have coded my own [PoC](stealth.c) (in pure C) for the novel technique explained by Tim Niklas Witte in his paper "[Phantom Malware: Conceal Malicious Actions From Malware Detection Techniques by Imitating User Activity](https://ieeexplore.ieee.org/abstract/document/9186656)", released in September. 
 
