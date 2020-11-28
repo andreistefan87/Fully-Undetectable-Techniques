@@ -31,7 +31,7 @@ One of the disadvantages of minizinh0-FUD, is that the process of encrypting eac
 
 ### One of the folders encrypted by minizinh0-FUD
 
-Notice that I'm not deleting the original files.
+Notice that I'm not deleting or overwriting the original files.
 
 ![Sample Folder](sample-folder.png)
 
