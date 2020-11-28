@@ -29,10 +29,6 @@ One of the disadvantages of minizinh0-FUD, is that the process of encrypting eac
 
 [PoC Video](https://youtu.be/2a4wEv9FcmA) (ignore the debugging messages)
 
-### One of the folders encrypted by minizinh0-FUD
-
-Notice that I'm not deleting or overwriting the original files.
-
 ![Sample Folder](sample-folder.png)
 
 ### My Ransom Note (in pt-br)
